@@ -1,0 +1,2 @@
+# need this ignore or else eslint will give typescript error (known issue) 
+/node_modules
